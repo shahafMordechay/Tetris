@@ -10,7 +10,11 @@ make run
 
 ### how to play
 move right: d
+
 move left: a
+
 move down: s
+
 rotate: w
+
 quit: q
