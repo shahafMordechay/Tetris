@@ -5,7 +5,5 @@ Tetris game written in c using Linux system calls
 run the following commands:
 ```
 make
-```
-```
 make run
 ```
