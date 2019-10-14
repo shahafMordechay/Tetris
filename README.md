@@ -1,5 +1,5 @@
 # Tetris
-Tetris game written in c using Linux system calls.
+Tetris game written in c using Linux system calls
 
 ### Running the game
 run the following commands:
@@ -9,12 +9,8 @@ make run
 ```
 
 ### how to play
-move right: d
-
-move left: a
-
-move down: s
-
-rotate: w
-
-quit: q
+move right: d 
+move left: a 
+move down: s 
+rotate: w 
+quit: q 
