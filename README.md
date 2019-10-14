@@ -1,2 +1,2 @@
 # Tetris
-Simple tetris game
+Tetris game written in c using Linux system calls
